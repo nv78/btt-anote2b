@@ -2,6 +2,28 @@
 
 A student‑friendly, production‑style project to build a **multimodal Retrieval‑Augmented Generation (RAG) chatbot** and a **Computer Vision (CV) fine‑tuning SDK** for object detection. The chatbot extends the **Autonomous Intelligence** baseline to support **text, images, audio, and video**, while **SyntheticDataGen** supplies **training, stress‑test, and evaluation datasets** to measure progress. The CV SDK provides APIs to **upload data, fine‑tune YOLO / Faster R‑CNN / Grounding DINO**, run **predictions**, and **evaluate** results with standard metrics.
 
+
+## Research, Code, and Talks
+
+- **Research paper (Object Detection Benchmarking):**
+  https://drive.google.com/file/d/1IiBsuG1BwwGDGVslAs7gZttqMwvkjwYv/view
+
+- **Source code (benchmarking):**
+  https://github.com/nv78/OpenAnote/tree/main/materials/research/researchcode/Benchmarking-ObjectDetection
+
+- **Talks:**
+  Neha Naveen — https://www.youtube.com/watch?v=mOrear19fX4
+
+  Anya Ross — https://www.youtube.com/watch?v=ZTL56FpMRec
+
+  Spurthi Setty — https://www.youtube.com/watch?v=2GI5aFOx1BA
+
+- **Product demo (image tasks):**
+  https://www.youtube.com/watch?v=Qj653H5hvIw
+
+- **Datasets & generation services:**
+  https://anote.ai/syntheticdata
+
 ---
 
 ## Why Multimodal RAG and Synthetic Data?
@@ -252,28 +274,6 @@ gen_images = generate(
 )
 ```
 
----
-
-## Research, Code, and Talks
-
-- **Research paper (Object Detection Benchmarking):**
-  https://drive.google.com/file/d/1IiBsuG1BwwGDGVslAs7gZttqMwvkjwYv/view
-
-- **Source code (benchmarking):**
-  https://github.com/nv78/OpenAnote/tree/main/materials/research/researchcode/Benchmarking-ObjectDetection
-
-- **Talks:**
-  Neha Naveen — https://www.youtube.com/watch?v=mOrear19fX4
-  Anya Ross — https://www.youtube.com/watch?v=ZTL56FpMRec
-  Spurthi Setty — https://www.youtube.com/watch?v=2GI5aFOx1BA
-
-- **Product demo (image tasks):**
-  https://www.youtube.com/watch?v=Qj653H5hvIw
-
-- **Datasets & generation services:**
-  https://anote.ai/syntheticdata
-
----
 
 ## Deliverables & Demo Script
 
