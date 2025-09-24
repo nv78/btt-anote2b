@@ -1,4 +1,4 @@
-# BTT‑Anote‑1B — Multimodal RAG Chatbot + Computer Vision Fine‑Tuning SDK
+# BTT‑Anote‑2B — Multimodal RAG Chatbot + Computer Vision Fine‑Tuning SDK
 
 A student‑friendly, production‑style project to build a **multimodal Retrieval‑Augmented Generation (RAG) chatbot** and a **Computer Vision (CV) fine‑tuning SDK** for object detection. The chatbot extends the **Autonomous Intelligence** baseline to support **text, images, audio, and video**, while **SyntheticDataGen** supplies **training, stress‑test, and evaluation datasets** to measure progress. The CV SDK provides APIs to **upload data, fine‑tune YOLO / Faster R‑CNN / Grounding DINO**, run **predictions**, and **evaluate** results with standard metrics.
 
